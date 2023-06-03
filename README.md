@@ -1,7 +1,7 @@
 # Northwind-Traders-Analysis
-I built a top-level KPI dashboard for the executive team 
-As a business and data analyst, I analyzed sales and others for Northwimd Traders, a fictitious gourmet food suppllier, 
-including information on customers, products, order, shippers and employees. The tool used here in power query.
+I built a top-level KPI dashboard for the executive team using Power BI
+As a business and data analyst, I analyzed sales and others for Northwind Traders, a fictitious gourmet food supplier, 
+including information on customers, products, order, shippers and employees.
 
 ## Purpose is to quickly analysed the company's performance in key areas including;
 - Sales trends
