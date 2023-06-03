@@ -16,4 +16,4 @@ including information on customers, products, order, shippers and employees. The
 - Created the report in Power BI desktop and visualized with charts.
 - Designed my dashboard with reports and important metrics
 
-![](Northwind.jpg)
+![](Northwind.png)
